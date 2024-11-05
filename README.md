@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Penumerthy</h1>
 <h3 align="center">Software Developer at IBM India Software Labs</h3>
 
-- 🌱 I’m currently learning **Maven**
-
-- 💬 Ask me about **Deep Learning**
-
-- 📫 How to reach me **vaishnavipsnv@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaishnavi-penumerthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi-penumerthy" height="30" width="40" /></a>
